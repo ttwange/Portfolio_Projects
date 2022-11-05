@@ -13,3 +13,5 @@ This repo will contain projects mainly in data, from data analytics to data engi
  
   The 2ND project was on Housing Data Cleaning project that is based on           extensive SQL. The dataset used is Nashville Housing Data for Data             Cleaning.xlsx from Kaggle.
  
+3. Basics.ipynb
+  The 3rd project was on analysing CIA factbook data project that is based on     extensive SQL. In this project I analyzed and amswered a lot of question on     world data.
