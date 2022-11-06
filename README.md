@@ -9,9 +9,10 @@ This repo will contain projects mainly in data, from data analytics to data engi
   The dataset used is CovidDeath.xlsx and CovidVaccinations.xlsx from the WORLD   HEALTH ORGANIZATION(WHO).
   
   
- 2. Housing Data cleaning with SQL.
+2. Housing Data cleaning with SQL.
  
-  The 2ND project was on Housing Data Cleaning project that is based on           extensive SQL. The dataset used is Nashville Housing Data for Data             Cleaning.xlsx from Kaggle.
+  The 2ND project was on Housing Data Cleaning project that is based on           extensive SQL. The dataset used is Nashville Housing Data for Data                       Cleaning.xlsx from Kaggle. The main goal of this project was to show my data cleaning skills in a messy data using SQL.
  
 3. Basics.ipynb
-  The 3rd project was on analysing CIA factbook data project that is based on     extensive SQL. In this project I analyzed and amswered a lot of question on     world data.
+
+  The 3rd project was on analysing CIA factbook data project that is based on     extensive SQL. In this project I analyzed and amswered a lot of question on     world     data. This project was more of an insight project, where I used the data to answer real world question about population, cities and climate change 
