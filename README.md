@@ -6,7 +6,8 @@ This repo will contain projects mainly in data, from data analytics to data engi
 1. COVID PORFOLIO PROJECT.SQL
 
   The 1st project was on Covid porfolio project that is based on sql.
-  The dataset used is CovidDeath.xlsx and CovidVaccinations.xlsx from the WORLD   HEALTH ORGANIZATION(WHO).
+  The dataset used is CovidDeath.xlsx and CovidVaccinations.xlsx from the WORLD   HEALTH ORGANIZATION(WHO). The main question I was trying to answer, was on
+  the spread of covid, the survival rate and general spread of covid in the population.
   
   
 2. Housing Data cleaning with SQL.
