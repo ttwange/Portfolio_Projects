@@ -17,3 +17,7 @@ This repo will contain projects mainly in data, from data analytics to data engi
 3. Basics.ipynb
 
   The 3rd project was on analysing CIA factbook data project that is based on     extensive SQL. In this project I analyzed and amswered a lot of question on     world     data. This project was more of an insight project, where I used the data to answer real world question about population, cities and climate change 
+
+4. Data Modelling with postgrs db
+ 
+ In this project i worked on a simple data modelling project, where i practised on data modelling. I loaded data from a single source into postgres database locally.
