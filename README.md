@@ -17,13 +17,17 @@ This repo will contain projects mainly in data, from data analytics to data engi
  
   The 2ND project was on Housing Data Cleaning project that is based on extensive SQL. The dataset used is Nashville Housing Data for Data Cleaning.xlsx from Kaggle. The main goal of this project was to show my data cleaning skills in a messy data using SQL.
  
- Dataset for the project:
- https://github.com/ttwange/Portfolio_Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
+  Dataset for the project:
+  https://github.com/ttwange/Portfolio_Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
  
 3. CIA data anlysis.ipynb
 
   The 3rd project was on analysing CIA factbook data project that is based on extensive SQL. This project was more of an insight project, where I used the data to answer real world question about population, cities and climate change 
 
+  Dataset for the project:
+  
+  https://github.com/ttwange/Portfolio_Projects/blob/main/factbook.db
+  
 4. Data Modelling with postgres db
  
  In this project i worked on a simple data modelling project, where i practised on data modelling. I loaded data from a single source into postgres database locally.
