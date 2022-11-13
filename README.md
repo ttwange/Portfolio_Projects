@@ -21,3 +21,8 @@ This repo will contain projects mainly in data, from data analytics to data engi
 4. Data Modelling with postgrs db
  
  In this project i worked on a simple data modelling project, where i practised on data modelling. I loaded data from a single source into postgres database locally.
+
+5. Star Schema Design and Data modelling 
+
+The star schema is an important special case of the snowflake schema, and is more effective for handling simpler queries. The star schema gets its name from the physical model's resemblance to a star shape with a fact table at its center and the dimension tables surrounding it representing the star's points. In this video, we will be converting schema into star schema. 
+
