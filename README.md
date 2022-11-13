@@ -24,6 +24,6 @@ This repo will contain projects mainly in data, from data analytics to data engi
 
 5. Star Schema Design and Data modelling 
 
-The star schema is an important special case of the snowflake schema, and is more effective for handling simpler queries. The star schema gets its name from the physical model's resemblance to a star shape with a fact table at its center and the dimension tables surrounding it representing the star's points. In this video, we will be converting schema into star schema. 
+The star schema is an important special case of the snowflake schema, and is more effective for handling simpler queries. The star schema gets its name from the physical model's resemblance to a star shape with a fact table at its center and the dimension tables surrounding it representing the star's points. In this project, I will be converting schema into star schema. 
 
 Dataset link : https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
