@@ -8,12 +8,17 @@ This repo will contain projects mainly in data, from data analytics to data engi
   The 1st project was on Covid porfolio project that is based on sql.
   The dataset used is CovidDeath.xlsx and CovidVaccinations.xlsx from the WORLD   HEALTH ORGANIZATION(WHO). The main question I was trying to answer, was on the spread of covid, the survival rate and general spread of covid in the population.
   
-  Dateset : https://github.com/ttwange/Portfolio_Projects/blob/main/CovidDeaths.xlsx,
-            https://github.com/ttwange/Portfolio_Projects/blob/main/CovidVaccinations.xlsx
+  Dateset for the project: 
+  https://github.com/ttwange/Portfolio_Projects/blob/main/CovidDeaths.xlsx,
+            
+  https://github.com/ttwange/Portfolio_Projects/blob/main/CovidVaccinations.xlsx
   
 2. Housing Data cleaning with SQL.
  
-  The 2ND project was on Housing Data Cleaning project that is based on           extensive SQL. The dataset used is Nashville Housing Data for Data                       Cleaning.xlsx from Kaggle. The main goal of this project was to show my data cleaning skills in a messy data using SQL.
+  The 2ND project was on Housing Data Cleaning project that is based on extensive SQL. The dataset used is Nashville Housing Data for Data Cleaning.xlsx from Kaggle. The main goal of this project was to show my data cleaning skills in a messy data using SQL.
+ 
+ Dataset for the project:
+ https://github.com/ttwange/Portfolio_Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
  
 3. CIA data anlysis.ipynb
 
