@@ -2,6 +2,7 @@
 This are End_2_End projects
 
 This repo will contain projects mainly in data, from data analytics to data enginering and ML projects.
+
 ****1. Star Schema Design and Data modelling 
 
 The star schema is an important special case of the snowflake schema, and is more effective for handling simpler queries. The star schema gets its name from the physical model's resemblance to a star shape with a fact table at its center and the dimension tables surrounding it representing the star's points. In this project, I will be converting schema into star schema. 
