@@ -22,7 +22,7 @@ This repo will contain projects mainly in data, from data analytics to data engi
  
  In this project i worked on a simple data modelling project, where i practised on data modelling. I loaded data from a single source into postgres database locally.
 
-Dateset : reserve_asset.csv
+Dateset : reserve_asset.csv , loans.csv
 
 5. Star Schema Design and Data modelling 
 
