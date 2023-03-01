@@ -1,0 +1,9 @@
+#download data and project requirements
+pip install wget && pip install unzip
+
+pip install google-cloud-storage numpy pandas
+
+wget https:\\files.grouplens.org\datasets\movielens\ml-100k.zip
+wget https:\\grouplens.org\datasets\movielens\100k\
+
+unzip ml-100k.
