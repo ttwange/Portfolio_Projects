@@ -37,6 +37,23 @@ Dataset link : https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvd
 ****5. Data Modelling with postgres db
  
  In this project i worked on a simple data modelling project, where i practised on data modelling. I loaded data from a single source into postgres database locally.
+ 
+ 
+ 
+ ****6. Movies_et_pipeline
+ 
+The steps are:
+Create a Google Storage Bucket.
+Process the Data and Export to CSV.
+Load CSV files into the Storage Bucket.
+Pre-requisites
+To run the ETL process you must enable the API for the services: Cloud Storage & Cloud Storage JSON API.
+Create a Service Account --> Create a Private Key --> Download Key Configurations in a JSON file, name it ServiceKey_GoogleCloud.json and put it in the project folder.
+
+Datasets for the movie_etl:
+
+https://files.grouplens.org/datasets/movielens.
+
 
 Dateset :
 https://github.com/ttwange/Portfolio_Projects/blob/main/loans.csv
